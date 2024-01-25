@@ -1,7 +1,7 @@
 # The Real Estate
 ## The Real Estate (House Price Predictor) SQL Database `(Sql Server)` is designed to manage and organize data related to properties, users, transactions, predictions, and other entities within the context of a real estate system. The database supports functionalities such as property search, prediction of house prices, user transactions, and more. 
 #  `Scenario`
-### New users register on the Real Estate platform, providing their username, password, email, and specifying their user type (Buyer/Seller/Agent). Users log in to the system using their credentials, initiating a session. User authentication is mandatory for all subsequent actions. Users, predominantly buyers, perform property searches based on criteria such as location, budget, and features. The system records each search in the user's search.........
+### New users register on the Real Estate platform, providing their username, password, email, and specifying their user type (Buyer/Seller/Agent). Users log in to the system using their credentials, initiating a session. User authentication is mandatory for all subsequent actions. Users, predominantly buyers, perform property searches based on criteria such as location, budget, and features. The system records each search in the user's search[...........](https://github.com/AhemdMahmoud/From-Problem-To-Product/blob/main/presentation.docx)
 
 # In this project I discussed these points  
 1. documentation
