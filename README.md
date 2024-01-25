@@ -1,5 +1,6 @@
 # The Real Estate
 ## The Real Estate (House Price Predictor) SQL Database `(Sql Server)` is designed to manage and organize data related to properties, users, transactions, predictions, and other entities within the context of a real estate system. The database supports functionalities such as property search, prediction of house prices, user transactions, and more. 
+# you can `Scenario` here 
 # In this project I discussed these points  
 1. documentation
 2. ERD
@@ -24,7 +25,10 @@
 ![san](https://github.com/AhemdMahmoud/From-Problem-To-Product/assets/109467491/18800ce7-972c-407e-ae53-bb53d1ab2c97)
 
 # sample view 
+![view](https://github.com/AhemdMahmoud/From-Problem-To-Product/assets/109467491/b8611ffd-3aae-4ca2-b104-f92eb614847e)
+
 `PropertyPredictionView `
+
 ![view](https://github.com/AhemdMahmoud/From-Problem-To-Product/assets/109467491/9b14f1ff-e7d3-43ae-93db-0be5aedbbaf8) 
 
 # interfrace
