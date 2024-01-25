@@ -1,0 +1,6 @@
+SQLQuery1.sql - DESKTOP-SG0028A\SQLEXPRESS.predictor (DESKTOP-SG0028A\AS (55))
+
+- Querying transaction count (Success)
+
+
+
