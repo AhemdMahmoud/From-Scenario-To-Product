@@ -15,7 +15,7 @@
 
 #  `ERD`
 ![ERD_ob](https://github.com/AhemdMahmoud/From-Problem-To-Product/assets/109467491/0c3e465e-3375-4d96-b0b5-edb90133ff6c)
-## ⚠ In this ERD I clarified `entities` `attributes` `relationships (participation ,cardinality) ` and you can see this in documentation pdf 
+## ⚠ In this ERD I clarified `entities` `attributes` `relationships (participation ,cardinality) ` and you can see this in [documentation](https://github.com/AhemdMahmoud/From-Problem-To-Product/blob/main/DOC.pdf)
 # `Relational schema`
 ![sg](https://github.com/AhemdMahmoud/From-Problem-To-Product/assets/109467491/80ffa9cb-c2d1-4a49-8ec8-dc160398ce83)  
 
