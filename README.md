@@ -38,7 +38,7 @@
 
 
 
-# ⚠ you can try [Queries](https://github.com/AhemdMahmoud/From-Problem-To-Product/blob/main/SQLQuery1.sql) from here and see output   and And the  try the other points 
+# ⚠ you can try [Queries](https://github.com/AhemdMahmoud/From-Problem-To-Product/blob/main/SQLQuery1.sql) and see output ,try the other points 
 
 
 
